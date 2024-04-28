@@ -1,6 +1,6 @@
 ## Welcome to Excom AI's GitHub 👋
 
-![logo](excom_ai_logo_192x192.png)
+![logo](profile/excom_ai_logo_192x192.png)
 
 ### Who We Are
 Welcome to the official public repository for Excom AI! We specialize in leveraging artificial intelligence to empower executive decision-making. At Excom AI, we're dedicated to transforming how leaders engage with data, make strategic decisions, and drive their organizations forward. Our global team spans four continents, bringing diverse perspectives to every project.
