@@ -1,4 +1,4 @@
-![logo](profile/excom_ai_logo_192x192.png)
+![logo](https://github.com/excom-ai/.public/blob/main/profile/excom_ai_logo_192x192.png)
 
 ## Welcome to Excom AI's GitHub 👋
 
