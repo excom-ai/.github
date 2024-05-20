@@ -1,24 +1,41 @@
+# Welcome to ExCom AI
+
 ![logo](https://github.com/excom-ai/.public/blob/main/profile/excom_ai_logo_192x192.png)
 
-## Welcome to Excom AI's GitHub 👋
+## Overview
 
-### Who We Are
-Welcome to the official public repository for Excom AI! We specialize in leveraging artificial intelligence to empower executive decision-making. At Excom AI, we're dedicated to transforming how leaders engage with data, make strategic decisions, and drive their organizations forward. Our global team spans four continents, bringing diverse perspectives to every project.
+**ExCom AI** is a pioneering technology firm based in Dubai, specializing in advanced artificial intelligence solutions for executive decision-making. We are the creators of
+Read more about [ExCom AI](https://excom.ai/) in our our [governance](./governance/README.md) page and our [company website](https://ExCom.ai)
 
-### Get Involved
-🌟 **Contribute**: We value community contributions. While most of our projects are private, we occasionally open up specific repositories for collaboration. You can help by reporting bugs, suggesting features, or submitting pull requests.
+ **ExComGPT**, a flagship AI platform designed to enhance the strategic capabilities of C-suite executives across various industries. Read more on the [product website](https://excomgpt.com/)
 
-### Join Our Team
-We are looking for talented individuals to join our diverse team across various roles:
-- **AI Researchers and Data Scientists**: Innovate with cutting-edge AI.
-- **Software Engineers**: Build scalable and secure solutions.
-- **Product Managers**: Oversee the lifecycle of our AI products.
-- **UX/UI Designers**: Craft intuitive and impactful user interfaces.
-- **Business Analysts**: Align our solutions with market needs.
-- **Sales and Marketing Professionals**: Communicate the value of our AI.
-- **Customer Success Managers**: Ensure client satisfaction and success.
-- **Regulatory and Compliance Experts**: Manage compliance with AI regulations.
+Executive Command Generative Pre-trained Transformer
 
-If you're excited about AI and think you can contribute to our team, we’d love to hear from you! For more details on current openings, visit our [contact page](https://excom.ai/about/contact).
+## Our Mission
 
-🔗 **Learn More**: For more about our company and the full spectrum of our offerings, visit our [official website](https://excom.ai).
+At ExCom AI, our mission is to ***empower leaders*** with cutting-edge AI tools to drive innovation, efficiency, and data-driven decision-making.
+
+We aim to transform business operations through AI technology, making complex decision-making processes more accessible and insightful.
+
+## ExComGPT
+
+**ExComGPT** integrates seamlessly with existing business systems to provide real-time analytics, predictive insights, and tailored recommendations. It's built to support decision-makers by offering:
+
+- Strategic forecasting
+- Real-time business analytics
+- Customized executive dashboards
+- Comprehensive reporting tools
+
+## Contributions
+
+While most of our projects are proprietary, we occasionally open parts of our work to the public to foster collaboration and innovation within the global tech community. We invite you to explore our public repositories and consider contributing to our projects.
+
+## Get Involved
+
+Interested in contributing to ExCom AI? Please read our [Contribution Guidelines](CONTRIBUTING.md) for more information on how you can make a difference. We appreciate your interest and look forward to your innovative ideas and contributions.
+
+## Contact Us
+
+For more information about ExCom AI and ExComGPT, visit our [official website](https://ExCom.ai) or reach out directly via our [contact page](https://ExCom.ai/about/contact).
+
+Thank you for visiting our GitHub repository. We're excited to share our journey and collaborate with the global tech community to push the boundaries of AI in executive decision-making.
