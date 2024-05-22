@@ -8,7 +8,7 @@ The Advisory Board of ExCom AI is a strategic asset providing guidance in areas 
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | ![Anneleise](./assets/anneleise.png)<br/>**Anneliese Reinhold** 🇦🇺<br/>"The Guardian" | ![Peter](./assets/peter.png)<br/>**Peter Larnholt** 🇸🇪<br/>"The Tech Visionary"  | ![Fabio](./assets/fabio.png)<br/>**Fabio Mando**🇮🇹<br/>"The Bank"          |
 | ![Diego](./assets/diego.png)<br/>**Diego Camberos** 🇧🇴<br/>"The Commercial"           | ![Despo](./assets/despo.png)<br/>**Despo Michailides** 🇿🇦🇨🇾<br/>"The People Hero" | ![Dina](./assets/dina.png)<br/>**Dina Koutsikouri**🇬🇷<br/>"The Researcher" |
-| ![Richard](./assets/richard.png)<br/>**Richard Guest** 🇬🇧<br/>"The Globalist"         | ![Neil](./assets/niel.png)<br/>**Neil Gupta** 🇮🇳<br/>"The Investor"              | ![Nelson](./assets/nelson.png)<br/>**Nelson Bolanos**🇸🇻<br/>"Wilson"       |
+| ![Richard](./assets/richard.png)<br/>**Richard Guest** 🇬🇧<br/>"The Globalist"         | !<br/>"The Investor"                                                            | ![Nelson](./assets/nelson.png)<br/>**Nelson Bolanos**🇸🇻<br/>"Wilson"       |
 
 ### Member Details
 
@@ -20,7 +20,8 @@ The Advisory Board of ExCom AI is a strategic asset providing guidance in areas 
 | Dina Koutsikouri   | The Researcher     | Greece       | dina@excom.ai      | Research Insights                | Providing industry research and analysis                      | [Profile](https://www.linkedin.com/in/dina-koutsikouri-1859a012/) |
 | Peter Larnholt     | The Tech Visionary | Sweden       | peter@excom.ai     | Technological Innovation         | Leading tech initiatives, fostering innovation                | [Profile](https://www.linkedin.com/in/larnholt/)                  |
 | Despo Michailides  | The People Hero    | South Africa | despo@excom.ai     | Customer & Employee Satisfaction | Advocating for people interests, improving engagement         | [Profile](https://www.linkedin.com/in/despo-michaelides-16384519) |
-|                    | The Investor       | India        |                    | Investment Strategies            | Advising on investments and growth opportunities              |                                                                   |
+|                    | The Investor       |              |                    | Investment Strategies            | Advising on investments and growth opportunities              |                                                                   |
+|                    | The Industrialist  |              |                    | Industry Perspectice             | Industry insights and guidance towards excellence             |                                                                   |
 | Fabio Mando        | The Bank           | Italy        | fabio@excom.ai     | Financial Strategy               | Managing capital allocation and financial planning            | [Profile](https://www.linkedin.com/in/fabiomando/)                |
 
 ## Executive Management
